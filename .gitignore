@@ -1,0 +1,12 @@
+# Temporary Word lock files
+~$*
+
+# Conversion logs
+Generated_Letters/conversion_log_*.txt
+
+# Generated PDFs (optional: remove these lines to include PDFs)
+# Generated_Letters/*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
